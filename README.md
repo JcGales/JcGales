@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Cedrick Gales</h1>
-<h3 align="center">A passionate self learner developer from Philippines!</h3>
+<h3 align="center">🎯 On a journey from student to software engineer — PH based.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jcgales&label=Profile%20views&color=0e75b6&style=flat" alt="jcgales" /> </p>
 
