@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi 👋, I'm John Cedrick Gales
 🌱 I’m currently learning REACTJS AND NODEJS<br>📫 How to reach me ocampojohn939@gmail.com
 
 
