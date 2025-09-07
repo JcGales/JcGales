@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm John Cedrick Gales
-🌱 I’m currently learning REACTJS AND NODEJS<br>📫 How to reach me ocampojohn939@gmail.com
+🌱 I’m currently learning BACKEND<br>📫 How to reach me ocampojohn939@gmail.com
 
 
 ## 🌐 Socials:
